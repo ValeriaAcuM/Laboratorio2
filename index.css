@@ -1,0 +1,147 @@
+*,::before,::after{
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+.logo {
+    margin: 0 0 0 20rem;
+}
+
+
+
+.logos{
+    margin: 0 20rem 0 0;
+ }
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.nav-ul {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.nav-ul li {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-ul li img {
+   display: flex;
+    width: 20px;
+    height: 20px;
+}
+
+.product-h2 {
+ display: flex;
+ justify-content: center;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.producto-img {
+    display: flex;
+}
+.redes li {
+    list-style: none;
+    display: inline-flex;
+}
+.btn-cart {
+    background-color: black;
+    padding: 20px 50px ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.btn-cart:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+}
+
+/*footer*/
+footer {
+    width: 82rem;
+    background-color: #303030;
+  }
+  
+  .footerhome {
+    width: 115rem;
+    background-color: #303030;
+  }
+  
+  .footerfilas {
+    display: flex;
+    margin: 5rem;
+    color: #ffff;
+    font-size: 14px;
+  }
+  
+  .rem {
+    margin: 0 3rem;
+  
+  }
+  
+  .final {
+    display: flex;
+  }
+  
+  .f {
+    width: 50%;
+    color: #8a8686;
+    margin: 0 0 2rem 8rem;
+  
+  }
+  
+  .y {
+    width: 50%;
+    color: #8a8686;
+    margin: 0 0 0 8rem;
+  }
+  
+  .final {
+    width: 100%;
+  }
+  
+  .background {
+  
+    width: 100%;
+    height: 300px;
+  
+    background-image: url(https://image.freepik.com/foto-gratis/mujer-hermosa-spa_39730-1178.jpg);
+    display: flex;
+  
+  }
+  
+  .susbscribe {
+    padding: 5rem;
+    color: #ffff;
+  }
+  
+  .treinta {
+    font-size: 36px;
+    font-weight: 200;
+  }
+  
+  .form {
+    margin: 10rem 0;
+  }
+  
+  
+  
+  .buttonfinal {
+    background-color: #303030;
+    color: #ffff;
+    padding: 5px 10px;
+  }
