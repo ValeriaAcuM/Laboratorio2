@@ -1,0 +1,461 @@
+p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #303030;
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* Navigation */
+.logo {
+  padding-left: 50px;
+  margin-top: 10px;
+}
+
+nav {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 1rem;
+  margin: 0 auto;
+  margin-left: 35%;
+}
+
+nav :first-child {
+  color: #e27d60;
+}
+
+nav a {
+  margin: 12px;
+  text-decoration: none;
+  color: #303030;
+}
+
+.nav_icon {
+  margin-left: 80%;
+  margin-top: -25px;
+}
+
+
+/* All Titles */
+.small_titles {
+  font-size: 12px;
+  font-weight: 300;
+  color: #303030;
+  margin-bottom: -20px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.big_titles {
+  font-size: 36px;
+  font-weight: 700;
+  color: #E27D60;
+  margin-top: 30px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+
+.first_title {
+  margin-left: 10%;
+  box-sizing: content-box;
+  padding: 5px 5px;
+  background-color: #E6E6E6;
+  margin-top: 30px;
+}
+
+.first_title p {
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+.first_title h1 {
+  margin-left: 38%;
+}
+
+/* Seccion de mobile */ 
+.mobile_content {
+  margin-top: 5%;
+  margin-right: 30%;
+  padding: 70px 70px;
+  box-sizing: content-box;
+  background-color: #E6E6E6;
+  text-align: right;
+}
+
+.mobile_content p { 
+  margin-right: 35%;
+}
+
+.mobile_content h2 {
+  margin-right: 35%;
+}
+
+.mobile_content p span {
+  display: block;
+}
+
+.mobile_img {
+  margin-left: 48%;
+  margin-top: -60%;
+  margin-bottom: 40px;
+}
+
+/* Sección de iconos con texto */
+.icons_text {
+  margin-top: 5%;
+}
+
+.massage_icon {
+  margin-left: 20%;
+}
+
+.stone_icon {
+  margin-left: 15%;
+}
+
+.man_icon {
+  margin-left: 70%;
+  margin-top: -35%;
+} 
+
+.tissue_flex p span {
+  display: block;
+  margin-left: 15%;
+}
+
+.wellness_flex {
+  margin-top: -9%;
+}
+
+.wellness_flex p span {
+  display: block;
+  margin-left: 42%;
+}
+
+.reflexology_flex {
+  margin-top: -10%;
+}
+
+.reflexology_flex p span {
+  display: block;
+  margin-left: 68%;
+}
+
+.icon_black_text {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+/* Seccion de Relax and heal */
+.relax_content {
+  margin-top: 8%;
+  margin-left: 30%;
+  padding: 70px 70px;
+  box-sizing: content-box;
+  background-color: #E6E6E6;
+  text-align: left;
+}
+
+.relax_content p span{
+  display: block;
+}
+
+.relax_content p {
+  margin-left: 25%;
+}
+
+.relax_content h3 {
+  margin-left: 25%;
+}
+
+.relax_a {
+  background-color: #303030;
+  color: white;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+  margin-left: 25%;
+}
+
+.relax_img {
+  margin-top: -100%;
+  margin-left: 50px;
+  margin-bottom: 60px;
+}
+
+/* Treatments Content */
+.treatments_content {
+  text-align: center;
+  margin-top: 5%;
+}
+
+/* Seccion del form */
+.form_background {
+  background-image: url(./img/about_us_img/hand_background.png);
+  padding: 100px 40px 40px 100px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.form_text {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.form_text span {
+  display: block;
+}
+
+.small_text {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.big_text {
+  font-size: 36px;
+  font-weight: 700;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.form_flex {
+  display: block;
+}
+
+.form_btn {
+  background-color: #303030;
+  color: white;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+}
+
+/* Our team content */
+.team_intro {
+  text-align: center;
+}
+
+.team_text {
+  margin-top: -4%;
+  margin-bottom: 5%;
+}
+
+.team_text span {
+  display: block;
+}
+
+.people_img {
+  display: flex;
+  margin-left: 5%;
+}
+
+.people_img img {
+  padding-left: 20px;
+}
+
+.socia_media img {
+  padding-left: 12%;
+  margin-top: -15px;
+}
+
+.info_people {
+  display: flex;
+  margin-top: -15px;
+  margin-bottom: 2%;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.info_people span {
+  display: block;
+}
+
+.info_people p {
+  padding-left: 11%;
+}
+
+.people {
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.people img {
+  padding-left: 20px;
+}
+
+.team_a {
+  background-color: #303030;
+  color: white;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+  margin-left: 45%;
+}
+
+/* Brands seccion  */
+.brands img {
+  margin-top: 8%;
+  padding-left: 9%;
+  margin-bottom: 5%;
+}
+
+/* Health seccion */
+.health_content {
+  background-color: #E6E6E6;
+  padding: 10% 10%;
+  text-align: right;
+}
+
+.health_content p {
+  margin-right: 46%;
+  margin-top: -5%;
+}
+
+.health_content p span {
+  display: block;
+}
+
+.health_content h6 {
+  margin-right: 47%;
+}
+
+.health_img {
+  margin-left: 54%;
+  margin-bottom: -25%;
+}
+
+/* Citas de personas */
+.blockquote {
+  display: flex;
+  background-color: #E6E6E6;
+}
+
+.blockquote p {
+  background-color: white;
+  padding: 20px 15px 20px 15px;
+  margin-top: -20%;
+} 
+
+.cites {
+  display: flex;
+  background-color: #E6E6E6;
+  margin-top: -30px;
+}
+
+.cites figure {
+  padding-left: 11%;
+}
+
+.cites figcaption {
+  color: #E27D60;
+  display: inline;
+  margin-left: 10px;
+}
+
+.cites cite {
+  color: #303030;
+  display: block;
+  margin-left: 40%;
+}
+
+/* newseller section */
+.background_new {
+  background-image: url(./img/footer/massage_background.png);
+  padding: 80px 20px 20px 80px;
+}
+
+.form_text {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.form_text span {
+  display: block;
+}
+
+.last_form label {
+  margin-left: 50%;
+}
+
+/* footer */
+footer {
+  background-color: #303030;
+}
+
+.logo_footer {
+  margin-bottom: -5%;
+  margin-left: 5%;
+}
+
+.media {
+  margin-bottom: -5%;
+  margin-left: 10%;
+}
+
+.info_footer {
+  margin-left: 40%;
+}
+
+.info_footer p :first-child {
+  color: #E27D60;
+}
+
+.info_footer p span {
+  color: white;
+  display: block;
+  padding-top: 20px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.quick {
+  margin-left: 55%;
+  margin-top: -12%;
+}
+
+.quick p :first-child {
+  color: #E27D60;
+}
+
+.quick p span {
+  color: white;
+  display: block;
+  padding-top: 20px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.contact {
+  margin-left: 67%;
+  margin-top: -11%;
+}
+
+.contact p {
+  color: #E27D60;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.contact a {
+  color: white;
+  display: block;
+  padding-top: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.millious {
+  font-size: 16px;
+  font-weight: 400;
+  color: #E6E6E6;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.rights {
+  font-size: 16px;
+  font-weight: 400;
+  color: #E6E6E6;
+  margin-left: 74%;
+  margin-top: 20px;
+}
