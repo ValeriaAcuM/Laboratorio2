@@ -1,0 +1,313 @@
+p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #303030;
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  /* Navigation */
+  .logo {
+    padding-left: 50px;
+    margin-top: 10px;
+  }
+  
+  nav {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 1rem;
+    margin: 0 auto;
+    margin-left: 35%;
+  }
+  
+  nav :first-child {
+    color: #e27d60;
+  }
+  
+  nav a {
+    margin: 12px;
+    text-decoration: none;
+    color: #303030;
+  }
+  
+  .nav_icon {
+    margin-left: 80%;
+    margin-top: -25px;
+  }
+  
+  
+  /* All Titles */
+  .small_titles {
+    font-size: 12px;
+    font-weight: 300;
+    color: #303030;
+    margin-bottom: -20px;
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  .big_titles {
+    font-size: 36px;
+    font-weight: 700;
+    color: #E27D60;
+    margin-top: 30px;
+    font-family: 'Libre Franklin', sans-serif;
+  }
+  
+  
+  .first_title {
+    margin-left: 10%;
+    box-sizing: content-box;
+    padding: 5px 5px;
+    background-color: #E6E6E6;
+    margin-top: 30px;
+  }
+  
+  .first_title p {
+    margin-left: 40%;
+    margin-top: 30px;
+  }
+  
+  .first_title h1 {
+    margin-left: 38%;
+  }
+
+/*   live content */
+  .live_content {
+    margin-top: 5%;
+    margin-right: 30%;
+    padding: 80px 90px;
+    box-sizing: content-box;
+    background-color: #E6E6E6;
+    text-align: right;
+  }
+  
+  .live_content p { 
+    margin-right: 35%;
+  }
+  
+  .live_content h2 {
+    margin-right: 35%;
+  }
+  
+  .live_content p span {
+    display: block;
+  }
+  
+  .live_img {
+    margin-left: 48%;
+    margin-top: -48%;
+    margin-bottom: 40px;
+  }
+
+  .img_stone {
+    margin-left: 48%;
+    margin-top: -3%;
+  }
+
+  /* Treatments Content */
+.treatments_content {
+    text-align: center;
+    margin-top: 8%;
+  }
+
+  /* Discount section */
+.discount {
+    margin-top: 5%;
+    padding-left: 2%;
+}
+
+/* Trusted service content */
+.trusted_content {
+    margin-top: 8%;
+    margin-left: 30%;
+    text-align: left;
+  }
+  
+  .trusted_content p span{
+    display: block;
+  }
+  
+  .trusted_content p {
+    margin-left: 25%;
+  }
+  
+  .trusted_content h4 {
+    margin-left: 25%;
+  }
+
+  .trusted_img {
+    margin-top: -27%;
+    margin-left: 50px;
+    margin-bottom: 60px;
+  }
+
+  /* second part de trusted */
+  .second_trusted {
+    margin-right: 30%;
+    text-align: right;
+    margin-bottom: 5%;
+  }
+  
+    .second_trusted p { 
+    margin-right: 35%;
+  }
+  
+  .second_trusted p span {
+    display: block;
+  }
+  
+  .second_img {
+    margin-left: 48%;
+    margin-top: -25%;
+    margin-bottom: 3%;
+  }
+
+  .trusted_a {
+    background-color: #303030;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    margin-left: 45%;
+  }
+
+  /* Health seccion */
+.health_content {
+    background-color: #E6E6E6;
+    padding: 10% 10%;
+    text-align: right;
+    margin-top: 5%;
+  }
+  
+  .health_content p {
+    margin-right: 46%;
+    margin-top: -5%;
+  }
+  
+  .health_content p span {
+    display: block;
+  }
+  
+  .health_content h5 {
+    margin-right: 47%;
+  }
+  
+  .health_img {
+    margin-left: 54%;
+    margin-bottom: -29%;
+  }
+  
+  /* Citas de personas */
+  .blockquote {
+    display: flex;
+    background-color: #E6E6E6;
+  }
+  
+  .blockquote p {
+    background-color: white;
+    padding: 20px 15px 20px 15px;
+    margin-top: -20%;
+  } 
+  
+  .cites {
+    display: flex;
+    background-color: #E6E6E6;
+    margin-top: -30px;
+  }
+  
+  .cites figure {
+    padding-left: 11%;
+  }
+  
+  .cites figcaption {
+    color: #E27D60;
+    display: inline;
+    margin-left: 10px;
+  }
+  
+  .cites cite {
+    color: #303030;
+    display: block;
+    margin-left: 40%;
+  }
+
+  /* footer */
+footer {
+    background-color: #303030;
+  }
+  
+  .logo_footer {
+    margin-bottom: -5%;
+    margin-left: 5%;
+  }
+  
+  .media {
+    margin-bottom: -5%;
+    margin-left: 10%;
+  }
+  
+  .info_footer {
+    margin-left: 40%;
+  }
+  
+  .info_footer p :first-child {
+    color: #E27D60;
+  }
+  
+  .info_footer p span {
+    color: white;
+    display: block;
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  
+  .quick {
+    margin-left: 55%;
+    margin-top: -12%;
+  }
+  
+  .quick p :first-child {
+    color: #E27D60;
+  }
+  
+  .quick p span {
+    color: white;
+    display: block;
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  
+  .contact {
+    margin-left: 67%;
+    margin-top: -11%;
+  }
+  
+  .contact p {
+    color: #E27D60;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  
+  .contact a {
+    color: white;
+    display: block;
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  
+  .millious {
+    font-size: 16px;
+    font-weight: 400;
+    color: #E6E6E6;
+    margin-left: 5%;
+    margin-top: 20px;
+  }
+  
+  .rights {
+    font-size: 16px;
+    font-weight: 400;
+    color: #E6E6E6;
+    margin-left: 74%;
+    margin-top: 20px;
+  }
